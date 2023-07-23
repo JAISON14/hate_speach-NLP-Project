@@ -4,6 +4,10 @@ This project focuses on the development and implementation of a Long Short-Term 
 
 The project encompasses all stages of a typical data science project, starting with data loading and preprocessing, followed by exploratory data analysis, LSTM model building, and evaluation. It is a comprehensive exploration into Natural Language Processing (NLP) and Deep Learning, demonstrating the potential of these technologies in moderating and filtering online content.
 
+## Datasets Used
+https://www.kaggle.com/datasets/mrmorj/hate-speech-and-offensive-language-dataset  
+https://www.kaggle.com/datasets/vkrahul/twitter-hate-speech?select=train_E6oV3lV.csv
+
 ## Project Structure
 Data Loading and Preprocessing: The data is loaded and preprocessed to prepare it for the LSTM model. This step includes cleaning the text data, removing stop words, and performing other necessary preprocessing tasks.
 
